@@ -32,6 +32,12 @@
     ],
     "plugins": [
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2221d066-f8d8-4889-965c-dae4d2069b12"
+      }
+    },
+    "owner": "tianvanzyl"
   }
 }
